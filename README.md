@@ -18,6 +18,10 @@ Release versions of the app are available here:
 You can also help out by [running beta versions](#using-the-beta) of
 the app, and reporting bugs!
 
+## Look and Feel
+![Alt text](./images/main.jpg )
+![Alt text](./images/join_org.jpg )
+
 ## Contributing
 
 ### Discussion
